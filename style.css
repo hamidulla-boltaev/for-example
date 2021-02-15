@@ -1,0 +1,45 @@
+#homepage {
+  background: #333;
+  color: #fff;
+}
+#home-section {
+  background: url("https://i.ibb.co/LY06Djg/banner.png");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+.navbar {
+  border-bottom: #008de6 solid 3px;
+  opacity: 0.8;
+}
+.home-inner {
+  padding-top: 150px;
+}
+.card-form {
+  opacity: 0.8;
+}
+.fa {
+  color: #008de6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px;
+}
+
+#explore-section .fa,
+#share-section .fa {
+  color: #fff;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px;
+}
+#create-section .fa {
+  color: #008de6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px;
+}
